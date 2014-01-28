@@ -1,0 +1,13 @@
+{
+  "sources": {
+    "foodily_maxmind": {
+      "path": "."
+    },
+    "foodily_users": {
+      "path": "../foodily_users"
+    },
+    "user": {
+      "locked_version": "0.3.0"
+    }
+  }
+}

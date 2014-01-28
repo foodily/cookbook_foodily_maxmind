@@ -1,0 +1,6 @@
+# GeoIP.conf file - used by geoipupdate program
+# to update databases from http://www.maxmind.com
+# UserId, LicenseKey, ProductIds from admin@foodily.com account
+UserId 44734
+LicenseKey GEmNraBqZkaM
+ProductIds 133 GeoIP2-City
