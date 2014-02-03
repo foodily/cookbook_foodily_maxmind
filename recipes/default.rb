@@ -94,7 +94,6 @@ end
 cron 'geoipupdater' do
     action :create
     weekday '5'
-    mailto 'sysadmin@foodily.com'
     user 'foodily'
     command geoip_command
 
