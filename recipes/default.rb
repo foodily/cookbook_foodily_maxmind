@@ -94,6 +94,8 @@ end
 cron 'geoipupdater' do
     action :create
     weekday '5'
+    hour '12'
+    minute '13'
     user 'foodily'
     command geoip_command
 
